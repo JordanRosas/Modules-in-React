@@ -6,5 +6,13 @@ export default {
   },
   getAll() {
     return fetch(`${remoteURL}/owners`).then(e => e.json())
+  },
+  removeOwner(id){
+    return fetch(`${remoteURL}/owners/${id}`,{
+      method:"DELETE"
+    })
+    .then(e => e.json())
+    .then(() => fetch(`${remoteURL}/owners`))
+    .then(e => e.json())
   }
 }

@@ -3,35 +3,15 @@
     {
       "id": 3,
       "name": "Zoe LeBlanc"
-    },
-    {
-      "id": 4,
-      "name": "Blaise Roberts"
     }
   ],
   "animals": [
     {
-      "id": 2,
-      "name": "Jack"
-    },
-    {
-      "id": 3,
-      "name": "Checkers"
-    },
-    {
-      "id": 4,
-      "name": "wowow"
+      "id": 1,
+      "name": "Jordan"
     }
   ],
   "owners": [
-    {
-      "id": 2,
-      "name": "Jack"
-    },
-    {
-      "id": 5,
-      "name": "Jisie"
-    },
     {
       "id": 6,
       "name": "Emily"
