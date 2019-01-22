@@ -1,0 +1,52 @@
+{
+  "employees": [
+    {
+      "id": 3,
+      "name": "Zoe LeBlanc"
+    },
+    {
+      "id": 4,
+      "name": "Blaise Roberts"
+    }
+  ],
+  "animals": [
+    {
+      "id": 2,
+      "name": "Jack"
+    },
+    {
+      "id": 3,
+      "name": "Checkers"
+    },
+    {
+      "id": 4,
+      "name": "wowow"
+    }
+  ],
+  "owners": [
+    {
+      "id": 2,
+      "name": "Jack"
+    },
+    {
+      "id": 5,
+      "name": "Jisie"
+    },
+    {
+      "id": 6,
+      "name": "Emily"
+    }
+  ],
+  "locations": [
+    {
+      "id": 1,
+      "name": "Nashville North",
+      "address": "500 Circle Way"
+    },
+    {
+      "id": 2,
+      "name": "Nashville South",
+      "address": "10101 Binary Court"
+    }
+  ]
+}
